@@ -7,10 +7,10 @@ copying all characters and pasting them
 '''
 
 
-def minoperations(n):
+def minOperations(n):
     k = 0
     m = 2
-    
+
     while n > 1:
         while n % m == 0:
             k += m
