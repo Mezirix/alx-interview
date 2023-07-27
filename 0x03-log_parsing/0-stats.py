@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """A script for parsing"""
 import re
 
@@ -74,4 +74,4 @@ def run():
 
 
 if __name__ == '__main__':
-    run(
+    run()
