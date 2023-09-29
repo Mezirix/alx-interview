@@ -1,1 +1,1 @@
-ALX TECHNICAL INTERVIEWS
+Readme for primegame
